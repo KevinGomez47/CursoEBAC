@@ -11,7 +11,7 @@ public class holaMundo : MonoBehaviour
     private void Awake()
     {
         mainCam = this.gameObject;
-        print("Hola mundo desde Awake");
+        //print("Hola mundo desde Awake");
         //print("Hola mundo");
         //Debug.Log("Todo parece ir bien");
         //Debug.Log("Parece que algo esta queriendo salir mal");
