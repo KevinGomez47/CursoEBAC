@@ -5,6 +5,7 @@ using UnityEngine;
 public class holaMundo : MonoBehaviour
 {
 
+    public int scale;
     int x;
     public GameObject mainCam;
     // Awake es la primer funcion que se ejecuta al dar play al juego
