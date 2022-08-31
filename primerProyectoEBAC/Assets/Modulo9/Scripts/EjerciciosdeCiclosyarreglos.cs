@@ -23,10 +23,10 @@ public class EjerciciosdeCiclosyarreglos : MonoBehaviour {
 
     //Multiplicando un arreglo bidimensional con uno unidimensional
     int[,] myMatrix = new int[2, 3] {
-        { 1, 2, 3 },
-        { 4, 5, 6 }
+        { 15, 36, 82 },
+        { 56, 97, 40 }
     };
-    int[] myVector = new int[3] { 7, 8, 9 };
+    int[] myVector = new int[3] { 87, 46, 22 };
     int[] myResult = new int[2];
     // Start is called before the first frame update
     void Start()
